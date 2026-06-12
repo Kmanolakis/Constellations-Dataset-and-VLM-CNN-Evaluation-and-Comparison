@@ -21,9 +21,8 @@ The project is divided into three main stages:
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
-\`\`\`text
 ├── constellation_dataset.mlx       
 ├── sep.mlx       
 ├── 01_cnn_training.ipynb        
@@ -31,9 +30,7 @@ The project is divided into three main stages:
 ├── report.pdf                   
 ├── requirements.txt             
 └── README.md
-\`\`\`
 
----
 
 ## Reproduction
 
