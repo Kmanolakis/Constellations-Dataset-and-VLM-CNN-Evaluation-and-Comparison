@@ -1,4 +1,4 @@
-# Constellations Dataset and VLM-CNN Evaluation and Comparison
+# Signal Constellations Dataset and VLM-CNN Evaluation and Comparison
 
 A comprehensive Machine Learning project that involves creating a custom dataset, training two Convolutional Neural Networks (CNNs) from scratch, and fine-tuning a Vision-Language Model (VLM).
 
